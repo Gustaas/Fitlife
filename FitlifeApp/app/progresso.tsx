@@ -102,7 +102,7 @@ export default function ProgressoScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 20 },
+  container: { flex: 1, padding: 20, backgroundColor: "#fff" },
   title: { fontSize: 24, fontWeight: 'bold', marginBottom: 15, textAlign: 'center' },
   subtitle: { fontSize: 18, marginTop: 20, marginBottom: 10 },
   input: {
