@@ -31,7 +31,7 @@ export default function TreinoDiaScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 20 },
+  container: { flex: 1, padding: 20, backgroundColor: "#fff" },
   title: { fontSize: 24, fontWeight: 'bold', marginBottom: 10, textAlign: 'center' },
   subTitle: { fontSize: 18, marginBottom: 20, textAlign: 'center' },
   card: {
