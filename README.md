@@ -62,6 +62,7 @@ expo start
  
    ```
 👥 Contribuidores
+
 Denilson Bernardes Gonçalves
 Luis felipe vieira da silva
 Gustavo Antônio da Silva Teixera
