@@ -41,14 +41,14 @@ Node.js instalado
 
 Banco de dados local
 
-Expo CLI instalado globalmente (npm install -g expo-cli)
+Expo CLI instalado globalmente (npm install)
 
 Backend
 
 cd fitlife-backend
 npm install
-cp .env.example .env  # Configure suas variáveis
-npm run dev
+
+npm start
 
 Frontend
 
