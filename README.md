@@ -13,6 +13,10 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
+- *JavaScript (ES6+)*
+- *Node.js*
+- *TypeScript*
+
 - Frontend (FitlifeApp)
 
   React Native 
