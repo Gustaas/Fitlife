@@ -14,8 +14,7 @@
 ## 🛠️ Tecnologias Utilizadas
 
 - **JavaScript (ES6+)**
-- **Node.js** (se aplicável)
-- **Express.js** (se aplicável)
+- **Node.js** 
 
 ## 📦 Instalação
 
