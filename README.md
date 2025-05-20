@@ -13,24 +13,21 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-Frontend (FitlifeApp)
+- Frontend (FitlifeApp)
 
-React Native 
+  React Native 
 
-Expo
+  Expo
 
-TypeScript
+  TypeScript
 
+- Backend (fitlife-backend)
 
-Backend (fitlife-backend)
+  Node.js
 
-Node.js
+  TypeScript
 
-TypeScript
-
-Banco de dados local
-
-## 📦 Instalação
+  Banco de dados local
 
 ⚖ Como Rodar o Projeto
 
@@ -55,18 +52,26 @@ cd FitlifeApp
 npm install
 expo start
 
+## 📦 Instalação
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/FitLifeApp.git
  
    ```
-👥 Contribuidores
+👥 Contribuidores:
 
 Denilson Bernardes Gonçalves
-Luis felipe vieira da silva
+
+Luis Felipe Vieira da Silva
+
 Gustavo Antônio da Silva Teixera
+
 Eduardo Freitas Santos
+
 João Vitor Diniz Martins
-Arthur Constantino da silva rios
-Kaiky dos santos Caruso 
+
+Arthur Constantino da Silva Rios
+
+Kaiky dos Santos Caruso 
+
